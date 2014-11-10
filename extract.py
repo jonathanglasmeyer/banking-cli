@@ -56,7 +56,6 @@ def get():
             else:
                 # print(line)
                 html_raw+=line
-        print(html_raw)
 
     return html_raw
 
