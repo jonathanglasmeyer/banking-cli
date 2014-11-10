@@ -54,7 +54,7 @@ def get():
                 if i>10: i = 10
                 progress.update(i)
             else:
-                print(line)
+                # print(line)
                 html_raw+=line
         print(html_raw)
 
