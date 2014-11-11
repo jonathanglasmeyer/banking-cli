@@ -9,7 +9,7 @@ Note: currently only scraping for [Haspa](www.haspa.de) is implemented; feel fre
 The yellow captions are months. The colums from left to right: day of month, description field of transaction (but with all the usual boilerplate stuff removed), color-coded amount. + a sum for each month beneath.
 
 # dependencies
-`sudo npm install -g phantomjs coffeescript`
+`sudo npm install -g phantomjs coffee-script`
 
 # install
 
